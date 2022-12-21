@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр2\En-de(code)\obj\Debug\net6.0\En-de(code).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр2\En-de(code)\obj\Debug\net6.0\En-de(code).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр2\En-de(code)\obj\Debug\net6.0\En-de(code).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр2\En-de(code)\obj\Debug\net6.0\En-de(code).AssemblyInfo.cs
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр2\En-de(code)\obj\Debug\net6.0\En-de(code).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр2\En-de(code)\bin\Debug\net6.0\En-de(code).exe
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр2\En-de(code)\bin\Debug\net6.0\En-de(code).deps.json
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр2\En-de(code)\bin\Debug\net6.0\En-de(code).runtimeconfig.json
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр2\En-de(code)\bin\Debug\net6.0\En-de(code).dll
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр2\En-de(code)\bin\Debug\net6.0\ref\En-de(code).dll
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр2\En-de(code)\bin\Debug\net6.0\En-de(code).pdb
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр2\En-de(code)\obj\Debug\net6.0\En-de(code).dll
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр2\En-de(code)\obj\Debug\net6.0\ref\En-de(code).dll
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр2\En-de(code)\obj\Debug\net6.0\En-de(code).pdb
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр2\En-de(code)\obj\Debug\net6.0\En-de(code).genruntimeconfig.cache

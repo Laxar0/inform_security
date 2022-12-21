@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dced7a36-2e87-4612-8504-241afdba73bf": {
+      "ProjectGuid": "dced7a36-2e87-4612-8504-241afdba73bf",
+      "DisplayName": "rsa",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

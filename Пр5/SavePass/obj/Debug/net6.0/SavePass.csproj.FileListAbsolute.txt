@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр5\SavePass\obj\Debug\net6.0\SavePass.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр5\SavePass\obj\Debug\net6.0\SavePass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр5\SavePass\obj\Debug\net6.0\SavePass.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр5\SavePass\obj\Debug\net6.0\SavePass.AssemblyInfo.cs
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр5\SavePass\obj\Debug\net6.0\SavePass.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр5\SavePass\bin\Debug\net6.0\SavePass.exe
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр5\SavePass\bin\Debug\net6.0\SavePass.deps.json
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр5\SavePass\bin\Debug\net6.0\SavePass.runtimeconfig.json
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр5\SavePass\bin\Debug\net6.0\SavePass.dll
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр5\SavePass\bin\Debug\net6.0\ref\SavePass.dll
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр5\SavePass\bin\Debug\net6.0\SavePass.pdb
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр5\SavePass\obj\Debug\net6.0\SavePass.dll
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр5\SavePass\obj\Debug\net6.0\ref\SavePass.dll
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр5\SavePass\obj\Debug\net6.0\SavePass.pdb
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр5\SavePass\obj\Debug\net6.0\SavePass.genruntimeconfig.cache

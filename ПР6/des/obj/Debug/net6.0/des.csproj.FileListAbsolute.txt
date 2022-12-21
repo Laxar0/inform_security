@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\ПР6\des\bin\Debug\net6.0\des.exe
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\ПР6\des\bin\Debug\net6.0\des.deps.json
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\ПР6\des\bin\Debug\net6.0\des.runtimeconfig.json
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\ПР6\des\bin\Debug\net6.0\des.dll
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\ПР6\des\bin\Debug\net6.0\ref\des.dll
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\ПР6\des\bin\Debug\net6.0\des.pdb
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\ПР6\des\obj\Debug\net6.0\des.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\ПР6\des\obj\Debug\net6.0\des.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\ПР6\des\obj\Debug\net6.0\des.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\ПР6\des\obj\Debug\net6.0\des.AssemblyInfo.cs
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\ПР6\des\obj\Debug\net6.0\des.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\ПР6\des\obj\Debug\net6.0\des.dll
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\ПР6\des\obj\Debug\net6.0\ref\des.dll
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\ПР6\des\obj\Debug\net6.0\des.pdb
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\ПР6\des\obj\Debug\net6.0\des.genruntimeconfig.cache

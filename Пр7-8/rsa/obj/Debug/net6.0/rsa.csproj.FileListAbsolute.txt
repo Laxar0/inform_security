@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр7\rsa\bin\Debug\net6.0\rsa.exe
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр7\rsa\bin\Debug\net6.0\rsa.deps.json
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр7\rsa\bin\Debug\net6.0\rsa.runtimeconfig.json
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр7\rsa\bin\Debug\net6.0\rsa.dll
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр7\rsa\bin\Debug\net6.0\ref\rsa.dll
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр7\rsa\bin\Debug\net6.0\rsa.pdb
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр7\rsa\obj\Debug\net6.0\rsa.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр7\rsa\obj\Debug\net6.0\rsa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр7\rsa\obj\Debug\net6.0\rsa.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр7\rsa\obj\Debug\net6.0\rsa.AssemblyInfo.cs
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр7\rsa\obj\Debug\net6.0\rsa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр7\rsa\obj\Debug\net6.0\rsa.dll
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр7\rsa\obj\Debug\net6.0\ref\rsa.dll
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр7\rsa\obj\Debug\net6.0\rsa.pdb
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр7\rsa\obj\Debug\net6.0\rsa.genruntimeconfig.cache

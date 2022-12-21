@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр1\Random\obj\Debug\net6.0\Random.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр1\Random\obj\Debug\net6.0\Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр1\Random\obj\Debug\net6.0\Random.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр1\Random\obj\Debug\net6.0\Random.AssemblyInfo.cs
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр1\Random\obj\Debug\net6.0\Random.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр1\Random\bin\Debug\net6.0\Random.exe
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр1\Random\bin\Debug\net6.0\Random.deps.json
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр1\Random\bin\Debug\net6.0\Random.runtimeconfig.json
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр1\Random\bin\Debug\net6.0\Random.dll
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр1\Random\bin\Debug\net6.0\ref\Random.dll
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр1\Random\bin\Debug\net6.0\Random.pdb
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр1\Random\obj\Debug\net6.0\Random.dll
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр1\Random\obj\Debug\net6.0\ref\Random.dll
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр1\Random\obj\Debug\net6.0\Random.pdb
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр1\Random\obj\Debug\net6.0\Random.genruntimeconfig.cache

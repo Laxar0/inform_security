@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр3\MD5\bin\Debug\net6.0\MD5.exe
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр3\MD5\bin\Debug\net6.0\MD5.deps.json
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр3\MD5\bin\Debug\net6.0\MD5.runtimeconfig.json
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр3\MD5\bin\Debug\net6.0\MD5.dll
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр3\MD5\bin\Debug\net6.0\ref\MD5.dll
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр3\MD5\bin\Debug\net6.0\MD5.pdb
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр3\MD5\obj\Debug\net6.0\MD5.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр3\MD5\obj\Debug\net6.0\MD5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр3\MD5\obj\Debug\net6.0\MD5.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр3\MD5\obj\Debug\net6.0\MD5.AssemblyInfo.cs
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр3\MD5\obj\Debug\net6.0\MD5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр3\MD5\obj\Debug\net6.0\MD5.dll
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр3\MD5\obj\Debug\net6.0\ref\MD5.dll
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр3\MD5\obj\Debug\net6.0\MD5.pdb
+C:\Users\User\Desktop\Мои файлы\Лекции\2 курс\Основы кибербеза\Практические работы\Пр3\MD5\obj\Debug\net6.0\MD5.genruntimeconfig.cache
